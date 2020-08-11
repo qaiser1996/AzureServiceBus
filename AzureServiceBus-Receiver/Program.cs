@@ -9,7 +9,7 @@ namespace AzureServiceBus_Receiver
     class Program
     {
         private static IQueueClient serviceClient;
-        private const string connection_string = "Endpoint=sb://systems.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=g02W1R8Vwd435GKxEX3313qIU/xsYrjqHhySs/HhYf0=";
+        private const string connection_string = "<connection_string>";
         private const string queue_name = "test_queue";
 
         static void Main(string[] args)
