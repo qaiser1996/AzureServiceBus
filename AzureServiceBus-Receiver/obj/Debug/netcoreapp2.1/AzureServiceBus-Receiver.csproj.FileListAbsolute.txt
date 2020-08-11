@@ -1,0 +1,11 @@
+C:\Users\sahib\source\repos\AzureServiceBus\AzureServiceBus-Receiver\bin\Debug\netcoreapp2.1\AzureServiceBus-Receiver.deps.json
+C:\Users\sahib\source\repos\AzureServiceBus\AzureServiceBus-Receiver\bin\Debug\netcoreapp2.1\AzureServiceBus-Receiver.runtimeconfig.json
+C:\Users\sahib\source\repos\AzureServiceBus\AzureServiceBus-Receiver\bin\Debug\netcoreapp2.1\AzureServiceBus-Receiver.runtimeconfig.dev.json
+C:\Users\sahib\source\repos\AzureServiceBus\AzureServiceBus-Receiver\bin\Debug\netcoreapp2.1\AzureServiceBus-Receiver.dll
+C:\Users\sahib\source\repos\AzureServiceBus\AzureServiceBus-Receiver\obj\Debug\netcoreapp2.1\AzureServiceBus-Receiver.csprojAssemblyReference.cache
+C:\Users\sahib\source\repos\AzureServiceBus\AzureServiceBus-Receiver\obj\Debug\netcoreapp2.1\AzureServiceBus-Receiver.csproj.CoreCompileInputs.cache
+C:\Users\sahib\source\repos\AzureServiceBus\AzureServiceBus-Receiver\obj\Debug\netcoreapp2.1\AzureServiceBus-Receiver.AssemblyInfoInputs.cache
+C:\Users\sahib\source\repos\AzureServiceBus\AzureServiceBus-Receiver\obj\Debug\netcoreapp2.1\AzureServiceBus-Receiver.AssemblyInfo.cs
+C:\Users\sahib\source\repos\AzureServiceBus\AzureServiceBus-Receiver\bin\Debug\netcoreapp2.1\AzureServiceBus-Receiver.pdb
+C:\Users\sahib\source\repos\AzureServiceBus\AzureServiceBus-Receiver\obj\Debug\netcoreapp2.1\AzureServiceBus-Receiver.dll
+C:\Users\sahib\source\repos\AzureServiceBus\AzureServiceBus-Receiver\obj\Debug\netcoreapp2.1\AzureServiceBus-Receiver.pdb

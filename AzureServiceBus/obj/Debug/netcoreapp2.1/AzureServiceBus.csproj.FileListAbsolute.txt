@@ -1,0 +1,8 @@
+C:\Users\sahib\source\repos\AzureServiceBus\AzureServiceBus\bin\Debug\netcoreapp2.1\AzureServiceBus.deps.json
+C:\Users\sahib\source\repos\AzureServiceBus\AzureServiceBus\bin\Debug\netcoreapp2.1\AzureServiceBus.runtimeconfig.json
+C:\Users\sahib\source\repos\AzureServiceBus\AzureServiceBus\bin\Debug\netcoreapp2.1\AzureServiceBus.runtimeconfig.dev.json
+C:\Users\sahib\source\repos\AzureServiceBus\AzureServiceBus\bin\Debug\netcoreapp2.1\AzureServiceBus.dll
+C:\Users\sahib\source\repos\AzureServiceBus\AzureServiceBus\obj\Debug\netcoreapp2.1\AzureServiceBus.csprojAssemblyReference.cache
+C:\Users\sahib\source\repos\AzureServiceBus\AzureServiceBus\obj\Debug\netcoreapp2.1\AzureServiceBus.csproj.CoreCompileInputs.cache
+C:\Users\sahib\source\repos\AzureServiceBus\AzureServiceBus\obj\Debug\netcoreapp2.1\AzureServiceBus.AssemblyInfoInputs.cache
+C:\Users\sahib\source\repos\AzureServiceBus\AzureServiceBus\obj\Debug\netcoreapp2.1\AzureServiceBus.AssemblyInfo.cs
