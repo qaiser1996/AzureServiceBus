@@ -1,0 +1,11 @@
+C:\Users\sahib\source\repos\AzureServiceBus\AzureServiceBus-SubscriberReceiver\bin\Debug\netcoreapp2.1\AzureServiceBus-SubscriberReceiver.deps.json
+C:\Users\sahib\source\repos\AzureServiceBus\AzureServiceBus-SubscriberReceiver\bin\Debug\netcoreapp2.1\AzureServiceBus-SubscriberReceiver.runtimeconfig.json
+C:\Users\sahib\source\repos\AzureServiceBus\AzureServiceBus-SubscriberReceiver\bin\Debug\netcoreapp2.1\AzureServiceBus-SubscriberReceiver.runtimeconfig.dev.json
+C:\Users\sahib\source\repos\AzureServiceBus\AzureServiceBus-SubscriberReceiver\bin\Debug\netcoreapp2.1\AzureServiceBus-SubscriberReceiver.dll
+C:\Users\sahib\source\repos\AzureServiceBus\AzureServiceBus-SubscriberReceiver\obj\Debug\netcoreapp2.1\AzureServiceBus-SubscriberReceiver.csprojAssemblyReference.cache
+C:\Users\sahib\source\repos\AzureServiceBus\AzureServiceBus-SubscriberReceiver\obj\Debug\netcoreapp2.1\AzureServiceBus-SubscriberReceiver.csproj.CoreCompileInputs.cache
+C:\Users\sahib\source\repos\AzureServiceBus\AzureServiceBus-SubscriberReceiver\obj\Debug\netcoreapp2.1\AzureServiceBus-SubscriberReceiver.AssemblyInfoInputs.cache
+C:\Users\sahib\source\repos\AzureServiceBus\AzureServiceBus-SubscriberReceiver\obj\Debug\netcoreapp2.1\AzureServiceBus-SubscriberReceiver.AssemblyInfo.cs
+C:\Users\sahib\source\repos\AzureServiceBus\AzureServiceBus-SubscriberReceiver\bin\Debug\netcoreapp2.1\AzureServiceBus-SubscriberReceiver.pdb
+C:\Users\sahib\source\repos\AzureServiceBus\AzureServiceBus-SubscriberReceiver\obj\Debug\netcoreapp2.1\AzureServiceBus-SubscriberReceiver.dll
+C:\Users\sahib\source\repos\AzureServiceBus\AzureServiceBus-SubscriberReceiver\obj\Debug\netcoreapp2.1\AzureServiceBus-SubscriberReceiver.pdb

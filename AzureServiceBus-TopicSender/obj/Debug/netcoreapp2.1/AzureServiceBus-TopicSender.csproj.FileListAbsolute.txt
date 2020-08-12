@@ -1,0 +1,11 @@
+C:\Users\sahib\source\repos\AzureServiceBus\AzureServiceBus-TopicSender\bin\Debug\netcoreapp2.1\AzureServiceBus-TopicSender.deps.json
+C:\Users\sahib\source\repos\AzureServiceBus\AzureServiceBus-TopicSender\bin\Debug\netcoreapp2.1\AzureServiceBus-TopicSender.runtimeconfig.json
+C:\Users\sahib\source\repos\AzureServiceBus\AzureServiceBus-TopicSender\bin\Debug\netcoreapp2.1\AzureServiceBus-TopicSender.runtimeconfig.dev.json
+C:\Users\sahib\source\repos\AzureServiceBus\AzureServiceBus-TopicSender\bin\Debug\netcoreapp2.1\AzureServiceBus-TopicSender.dll
+C:\Users\sahib\source\repos\AzureServiceBus\AzureServiceBus-TopicSender\obj\Debug\netcoreapp2.1\AzureServiceBus-TopicSender.csprojAssemblyReference.cache
+C:\Users\sahib\source\repos\AzureServiceBus\AzureServiceBus-TopicSender\obj\Debug\netcoreapp2.1\AzureServiceBus-TopicSender.csproj.CoreCompileInputs.cache
+C:\Users\sahib\source\repos\AzureServiceBus\AzureServiceBus-TopicSender\obj\Debug\netcoreapp2.1\AzureServiceBus-TopicSender.AssemblyInfoInputs.cache
+C:\Users\sahib\source\repos\AzureServiceBus\AzureServiceBus-TopicSender\obj\Debug\netcoreapp2.1\AzureServiceBus-TopicSender.AssemblyInfo.cs
+C:\Users\sahib\source\repos\AzureServiceBus\AzureServiceBus-TopicSender\bin\Debug\netcoreapp2.1\AzureServiceBus-TopicSender.pdb
+C:\Users\sahib\source\repos\AzureServiceBus\AzureServiceBus-TopicSender\obj\Debug\netcoreapp2.1\AzureServiceBus-TopicSender.dll
+C:\Users\sahib\source\repos\AzureServiceBus\AzureServiceBus-TopicSender\obj\Debug\netcoreapp2.1\AzureServiceBus-TopicSender.pdb
