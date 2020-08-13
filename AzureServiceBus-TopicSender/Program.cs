@@ -14,6 +14,7 @@ namespace AzureServiceBus_TopicSender
 
         static async Task Main(string[] args)
         {
+            Console.WriteLine(Guid.NewGuid().ToString());
             topicClient = new TopicClient(connection_string, topic_name);
 
             while (true)

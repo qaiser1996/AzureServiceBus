@@ -1,0 +1,11 @@
+C:\Users\sahib\source\repos\AzureServiceBus\AzureServiceBus-SessionReceiver\bin\Debug\netcoreapp2.1\AzureServiceBus-SessionReceiver.deps.json
+C:\Users\sahib\source\repos\AzureServiceBus\AzureServiceBus-SessionReceiver\bin\Debug\netcoreapp2.1\AzureServiceBus-SessionReceiver.runtimeconfig.json
+C:\Users\sahib\source\repos\AzureServiceBus\AzureServiceBus-SessionReceiver\bin\Debug\netcoreapp2.1\AzureServiceBus-SessionReceiver.runtimeconfig.dev.json
+C:\Users\sahib\source\repos\AzureServiceBus\AzureServiceBus-SessionReceiver\bin\Debug\netcoreapp2.1\AzureServiceBus-SessionReceiver.dll
+C:\Users\sahib\source\repos\AzureServiceBus\AzureServiceBus-SessionReceiver\obj\Debug\netcoreapp2.1\AzureServiceBus-SessionReceiver.csproj.CoreCompileInputs.cache
+C:\Users\sahib\source\repos\AzureServiceBus\AzureServiceBus-SessionReceiver\obj\Debug\netcoreapp2.1\AzureServiceBus-SessionReceiver.AssemblyInfoInputs.cache
+C:\Users\sahib\source\repos\AzureServiceBus\AzureServiceBus-SessionReceiver\obj\Debug\netcoreapp2.1\AzureServiceBus-SessionReceiver.AssemblyInfo.cs
+C:\Users\sahib\source\repos\AzureServiceBus\AzureServiceBus-SessionReceiver\obj\Debug\netcoreapp2.1\AzureServiceBus-SessionReceiver.csprojAssemblyReference.cache
+C:\Users\sahib\source\repos\AzureServiceBus\AzureServiceBus-SessionReceiver\bin\Debug\netcoreapp2.1\AzureServiceBus-SessionReceiver.pdb
+C:\Users\sahib\source\repos\AzureServiceBus\AzureServiceBus-SessionReceiver\obj\Debug\netcoreapp2.1\AzureServiceBus-SessionReceiver.dll
+C:\Users\sahib\source\repos\AzureServiceBus\AzureServiceBus-SessionReceiver\obj\Debug\netcoreapp2.1\AzureServiceBus-SessionReceiver.pdb

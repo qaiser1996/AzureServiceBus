@@ -1,0 +1,11 @@
+C:\Users\sahib\source\repos\AzureServiceBus\AzureServiceBus-SessionSender\bin\Debug\netcoreapp2.1\AzureServiceBus-SessionSender.deps.json
+C:\Users\sahib\source\repos\AzureServiceBus\AzureServiceBus-SessionSender\bin\Debug\netcoreapp2.1\AzureServiceBus-SessionSender.runtimeconfig.json
+C:\Users\sahib\source\repos\AzureServiceBus\AzureServiceBus-SessionSender\bin\Debug\netcoreapp2.1\AzureServiceBus-SessionSender.runtimeconfig.dev.json
+C:\Users\sahib\source\repos\AzureServiceBus\AzureServiceBus-SessionSender\bin\Debug\netcoreapp2.1\AzureServiceBus-SessionSender.dll
+C:\Users\sahib\source\repos\AzureServiceBus\AzureServiceBus-SessionSender\obj\Debug\netcoreapp2.1\AzureServiceBus-SessionSender.csprojAssemblyReference.cache
+C:\Users\sahib\source\repos\AzureServiceBus\AzureServiceBus-SessionSender\obj\Debug\netcoreapp2.1\AzureServiceBus-SessionSender.csproj.CoreCompileInputs.cache
+C:\Users\sahib\source\repos\AzureServiceBus\AzureServiceBus-SessionSender\obj\Debug\netcoreapp2.1\AzureServiceBus-SessionSender.AssemblyInfoInputs.cache
+C:\Users\sahib\source\repos\AzureServiceBus\AzureServiceBus-SessionSender\obj\Debug\netcoreapp2.1\AzureServiceBus-SessionSender.AssemblyInfo.cs
+C:\Users\sahib\source\repos\AzureServiceBus\AzureServiceBus-SessionSender\bin\Debug\netcoreapp2.1\AzureServiceBus-SessionSender.pdb
+C:\Users\sahib\source\repos\AzureServiceBus\AzureServiceBus-SessionSender\obj\Debug\netcoreapp2.1\AzureServiceBus-SessionSender.dll
+C:\Users\sahib\source\repos\AzureServiceBus\AzureServiceBus-SessionSender\obj\Debug\netcoreapp2.1\AzureServiceBus-SessionSender.pdb
