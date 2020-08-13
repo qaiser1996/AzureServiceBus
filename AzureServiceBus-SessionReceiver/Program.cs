@@ -9,8 +9,8 @@ namespace AzureServiceBus_SessionReceiver
     class Program
     {
 
-        private const string connection_string = "Endpoint=sb://systems.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=g02W1R8Vwd435GKxEX3313qIU/xsYrjqHhySs/HhYf0=";
-        private const string queue_name = "session_queue";
+        private const string connection_string = "<connection_string>";
+        private const string queue_name = "<queue_name>";
         private static ISessionClient messageSession;
 
         static async Task Main(string[] args)
